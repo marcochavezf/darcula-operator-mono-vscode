@@ -1,13 +1,4 @@
-# README
-## This is the README for your extension "darcula-operator-mono-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Darcula theme with Operator Mono for VS Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![darcula-operator-mono-1.png](images/darcula-operator-mono-1.png)
+![darcula-operator-mono-2.png](images/darcula-operator-mono-2.png)
