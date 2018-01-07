@@ -1,0 +1,22 @@
+{
+    "name": "darcula-operator-mono-vscode",
+    "displayName": "Darcula Operator Mono",
+    "description": "Darcula theme with Operator Mono for VS Code",
+    "version": "0.0.1",
+    "publisher": "marcochavezf",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darcula Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darcula-operator-mono-color-theme.json"
+            }
+        ]
+    }
+}

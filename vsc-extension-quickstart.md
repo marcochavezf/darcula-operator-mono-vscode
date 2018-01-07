@@ -1,0 +1,1 @@
+# Darcula Operator Mono theme for VS Code
